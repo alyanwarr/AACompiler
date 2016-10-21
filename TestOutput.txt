@@ -1,0 +1,10 @@
+Read Statement Found
+ASSIGNMENT Statement Found
+ASSIGNMENT Statement Found
+ASSIGNMENT Statement Found
+REPEAT Statement Found
+WRITE Statement Found
+IF-STATEMENT Found
+Program Found
+
+================================================
